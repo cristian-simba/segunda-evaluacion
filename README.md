@@ -6,6 +6,8 @@
 ```
   npm i --legacy-peer-deps
 ```
+## Deploy
+https://trabajo-75e99.web.app
 
 # Aplicación para tomar fotos
 ```
@@ -15,6 +17,8 @@
 ```
   npm i --legacy-peer-deps
 ```
+## Deply
+https://fir-auth-ce833.web.app/
 
 # Login con firebase authentication
 
@@ -52,9 +56,11 @@
 ```
 # Mostrar ubicación en Google maps o en OpenStreetMap
 ```
-  
+  https://github.com/cristian-simba/ionic-OpenStreetMap
 ```
 ## Instalacion de dependencias compatibles
 ```
   npm i --legacy-peer-deps
 ```
+## Deploy
+  https://proyecto-d01d0.web.app/home
