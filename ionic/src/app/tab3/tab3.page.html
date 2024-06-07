@@ -1,0 +1,88 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Hoja de Vida
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Hoja de Vida</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card>
+    <ion-card-header style="align-items: center;">
+      <ion-avatar>
+        <img alt="Foto de Miguel Paredes  " src="assets/foto.jpeg" />
+      </ion-avatar>
+      <ion-card-title>Miguel Paredes</ion-card-title>
+      <ion-card-subtitle>Perfil</ion-card-subtitle>
+    </ion-card-header>
+  
+    <ion-card-content style="text-align: justify;">
+      Soy persona amigable y sociable, disfruto de ayudar a las personas que se encuentran a mi alrededor, busco una solución rápida o novedosa a los problemas que se me presenten, cuando la situación lo amerita soy demasiado serio al trabajar, disfruto de oír y compartir ideas con las personas con las que trabajo porque siento que la opinión de todos es importante e inclusive de la persona menos esperada para encontrar una solución.
+    </ion-card-content>
+  </ion-card>
+
+  <ion-accordion-group>
+    <ion-accordion value="first">
+      <ion-item slot="header" color="light">
+        <ion-label>Educación</ion-label>
+      </ion-item>
+      <div class="ion-padding" slot="content">Colegio Luis Napoleón Dillon
+        <p>2015-2021</p>
+        <p>Bachiller Técnico – En Servicios de Contabilidad</p>
+      </div>
+      <div class="ion-padding" slot="content">Escuela Politécnica Nacional
+        <p>2021-Presente</p>
+        <p>Tecnología en Desarrollo de Software</p>
+      </div>
+    </ion-accordion>
+    <ion-accordion value="second">
+      <ion-item slot="header" color="light">
+        <ion-label>Conocimientos</ion-label>
+      </ion-item>
+      <div class="ion-padding" slot="content">
+        Lenguajes de Programación
+        <ul>
+          <li><img style="height: 21px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="Logo de C++"> C++</li>
+          <li><img style="height: 21px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="Logo de Python"> Python</li>
+          <li><img style="height: 21px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png" alt="Logo de Java"> Java</li>
+          <li><img style="height: 21px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/200px-Unofficial_JavaScript_logo_2.svg.png" alt="Logo de JavaScript"> JavaScript</li>
+          <li><img style="height: 21px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" alt="Logo de PHP"> PHP</li>
+        </ul>
+      </div>
+      <div class="ion-padding" slot="content">
+        Bases de Datos
+        <ul>
+          <li><img style="height: 21px;" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg" alt="Logo de MySQL"> MySQL</li>
+          <li><img style="height: 21px;" src="https://i.pinimg.com/1200x/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.jpg" alt="Logo de SQL Manager"> SQL Manager</li>
+        </ul>
+      </div>
+    </ion-accordion>
+  </ion-accordion-group>
+</ion-content>
+<ion-footer>
+  <ion-toolbar>
+    <ion-title>Contacto</ion-title>
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <ion-item>
+            <ion-icon name="logo-whatsapp"></ion-icon>
+            <ion-label><a href="https://wa.me/+593996126865">WhatsApp</a></ion-label>
+          </ion-item>
+        </ion-col>
+        <ion-col>
+          <ion-item>
+            <ion-icon name="mail-outline"></ion-icon>
+            <ion-label><a href="mailto:os.miguelparedes@gmail.com">Enviar correo</a></ion-label>
+          </ion-item>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-toolbar>
+</ion-footer>

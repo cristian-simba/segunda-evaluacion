@@ -1,0 +1,29 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>Registro</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div style="padding: 25px;">
+
+    <ion-header collapse="condense">
+      <ion-toolbar>
+        <ion-title size="large">Registro</ion-title>
+      </ion-toolbar>
+    </ion-header>
+    <ion-input type="text" placeholder="Nombre" required  
+    [(ngModel)]="name">
+    </ion-input>
+    <ion-input type="text" placeholder="Email" required  
+      [(ngModel)]="email">
+    </ion-input>
+    <ion-input type="password" placeholder="Contraseña" required  
+      [(ngModel)]="password">
+    </ion-input>
+    <ion-button expand="full" color="primary" (click)="signup()">Registrate</ion-button>
+    <div style="display: flex; justify-content: center; align-items: center; height: 100%; padding-top: 15px; color: blue;">
+      <ion-anchor class="rowStyleButton" routerLink="/login">Iniciar Sesión</ion-anchor>
+    </div>
+  </div>
+</ion-content>

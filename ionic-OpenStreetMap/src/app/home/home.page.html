@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title> Mostrar ubicación en OpenStreetMap </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="ion-padding">
+    <ion-list>
+      <ion-list-header>
+        <ion-label>Ubicación en OpenStreetMap</ion-label>
+      </ion-list-header>
+      <ion-item>
+        <ion-label> Latitud </ion-label>
+        <ion-badge color="danger" slot="end">{{latitude}}</ion-badge>
+      </ion-item>
+      <ion-item>
+        <ion-label> Longitud </ion-label>
+        <ion-badge color="danger" slot="end">{{longitude}}</ion-badge>
+      </ion-item>
+    </ion-list>
+    <ion-button (click)="getCurrentCoordinates()" expand="block">
+      Obtener Ubicación
+    </ion-button>
+
+    <div id="map" style="height: 500px; ;width: 100%; padding-right: 100px;"></div>
+  </div>
+</ion-content>
