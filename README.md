@@ -17,7 +17,7 @@ https://trabajo-75e99.web.app
 ```
   npm i --legacy-peer-deps
 ```
-## Deply
+## Deploy
 https://fir-auth-ce833.web.app/
 
 # Login con firebase authentication
@@ -29,6 +29,8 @@ https://fir-auth-ce833.web.app/
 ```
   npm i --legacy-peer-deps
 ```
+## Deploy
+https://authentication-f41ae.web.app
 # App para subir archivos con Storage
 
 ```
@@ -38,6 +40,8 @@ https://fir-auth-ce833.web.app/
 ```
   npm i --legacy-peer-deps
 ```
+## Deploy
+https://storage-837c3.web.app
 # App para chatear con Real-time-database
 ```
   https://github.com/Miguel-Paredes/ionic-chat
@@ -46,6 +50,8 @@ https://fir-auth-ce833.web.app/
 ```
   npm i --legacy-peer-deps
 ```
+## Deploy
+https://chat-fcd4b.web.app/
 # GPS con guardado de datos en real-time-database o firestore
 ```
   https://github.com/Miguel-Paredes/ionic-geolocation-app
@@ -54,6 +60,8 @@ https://fir-auth-ce833.web.app/
 ```
   npm i --legacy-peer-deps
 ```
+## Deploy
+  https://gps-d0893.web.app
 # Mostrar ubicación en Google maps o en OpenStreetMap
 ```
   https://github.com/cristian-simba/ionic-OpenStreetMap
