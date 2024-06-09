@@ -71,4 +71,4 @@ https://chat-fcd4b.web.app/
   npm i --legacy-peer-deps
 ```
 ## Deploy
-  https://proyecto-d01d0.web.app/home
+  https://proyecto-d01d0.web.app/
