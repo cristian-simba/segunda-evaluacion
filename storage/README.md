@@ -1,4 +1,4 @@
-# App para chatear con Real-time-database
+# App para subir archivos con Firebase
 ```
   https://github.com/Miguel-Paredes/ionic-chat
 ```
@@ -14,23 +14,19 @@ Se debe cambiar las variables de entorno de acuerdo a la configuración del proy
 ![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/512162a5-5f5c-49a4-a5f6-c5c4da5dd356)
 
 ## Resultados
-Registro e inicio de sesión desde la web
+La aplicación al momento de abrir a través del botón solicita elegir una imagen
 </br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/745381eb-ac55-4c97-834f-ae9748ef18a0)
+![Imagen de WhatsApp 2024-06-10 a las 03 06 40_7d1c3f58](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117743091/a90796c9-2ce1-4089-97b3-70ceae06616d)
 </br></br>
-Chat desde la web
+Al dar clic se abre el aplicativo de fotos en este caso de google fotos para seleccionar una foto
 </br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/2b499c54-3a4c-497e-87dc-74dc383fa430)
+![Imagen de WhatsApp 2024-06-10 a las 03 06 40_632f7202](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117743091/6237e090-7bde-4918-9850-a9e80f6de96a)
 </br></br>
-
-Registro e inicio de sesión desde android
+Presenta una respuesta del peso del archivo y que la subida fue exitosa con firebase
 </br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/38b15ea8-96ff-4fb0-a70e-252be7042e28)
+![Imagen de WhatsApp 2024-06-10 a las 03 14 20_195d8be9](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117743091/59878b6d-33a0-44ca-b2f6-9c1fc5956046)
 </br></br>
-Chat desde android
-</br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/c1eff9c7-6c9f-438a-ab57-af98746eb9dc)
 
 ## Deploy
-https://chat-fcd4b.web.app/
+https://storage-837c3.web.app
 
