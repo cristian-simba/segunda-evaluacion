@@ -8,11 +8,15 @@
 ```
 ## Variables de entorno
 Es necesario tener las variables de entorno que nos proporciona firebase, esta se encuentra en la configuracion del proyecto en la parte final. 
+
 ### Recuerda que para este proyecto se debe tener escogido la opción de Firestore Database
 </br>
+
 ![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/d3caa7fd-cae5-4d67-a56e-240bf601f80d)
+
 </br>
 Por otra parte, se debe cambiar las variables de entorno de acuerdo a la configuración del proyecto en firebase que se encuentra en la carpeta 
+
 ```
   src/app/environments/enviroment.ts
 ```
