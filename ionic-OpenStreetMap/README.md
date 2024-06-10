@@ -18,6 +18,7 @@ Es necesario tener las variables de entorno que nos proporciona firebase, esta s
 </br>
 Por otra parte, se debe cambiar las variables de entorno de acuerdo a la configuración del proyecto en firebase que se encuentra en la carpeta 
 </br>
+</br>
 
 ```
   src/app/environments/enviroment.ts
