@@ -7,7 +7,10 @@
   npm i --legacy-peer-deps
 ```
 ## Variables de entorno
-Se debe cambiar las variables de entorno de acuerdo a la configuración del proyecto en firebase que se encuentra en la carpeta 
+Es necesario tener las variables de entorno que nos proporciona firebase, esta se encuentra en la configuracion del proyecto en la parte final
+![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/13a6b0b5-8b1c-4875-90b8-54f7bc3273c1)
+</br>
+Por otra parte, se debe cambiar las variables de entorno de acuerdo a la configuración del proyecto en firebase que se encuentra en la carpeta 
 ```
   src/app/environments/enviroment.ts
 ```
