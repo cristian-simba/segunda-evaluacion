@@ -1,4 +1,4 @@
-# App para chatear con Real-time-database
+# App para obtener la localización con mapa incluido
 ```
   https://github.com/Miguel-Paredes/ionic-chat
 ```
@@ -13,24 +13,25 @@ Se debe cambiar las variables de entorno de acuerdo a la configuración del proy
 ```
 ![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/512162a5-5f5c-49a4-a5f6-c5c4da5dd356)
 
+
+
 ## Resultados
-Registro e inicio de sesión desde la web
+Al iniciar el aplicativo solicita los permisos necesarios para adquirir la ubicación
 </br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/745381eb-ac55-4c97-834f-ae9748ef18a0)
+![Imagen de WhatsApp 2024-06-10 a las 02 59 39_e88a080d](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117743091/238f78ca-c9ec-48b7-997b-4471baa48443)
 </br></br>
-Chat desde la web
+Solicita la ubicación en tiempo real
 </br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/2b499c54-3a4c-497e-87dc-74dc383fa430)
+![Imagen de WhatsApp 2024-06-10 a las 02 59 39_9890784d](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117743091/3a59851f-f4cb-48b6-8936-f94b89514370)
 </br></br>
 
-Registro e inicio de sesión desde android
+Presenta la ubicación en tiempo real, en este caso puntos de altitud y latitud
 </br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/38b15ea8-96ff-4fb0-a70e-252be7042e28)
+![Imagen de WhatsApp 2024-06-10 a las 02 59 40_30334e42](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117743091/bb1f095f-0121-4a6e-85f6-f5e8e28a9602)
 </br></br>
-Chat desde android
-</br></br>
-![image](https://github.com/Miguel-Paredes/Segunda-evaluaci-n/assets/117742977/c1eff9c7-6c9f-438a-ab57-af98746eb9dc)
+
 
 ## Deploy
-https://chat-fcd4b.web.app/
+
+https://proyecto-d01d0.web.app/
 
