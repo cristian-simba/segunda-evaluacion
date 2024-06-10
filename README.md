@@ -11,9 +11,9 @@ https://trabajo-75e99.web.app
 
 # Aplicación para tomar fotos
 ```
-  https://github.com/Miguel-Paredes/fotos-ionic
+  https://github.com/Washitox/Aplicativo-de-fotos.git
 ```
-## Instalacion de dependencias compatibles
+## Instalacion de dependencias compatibles 
 ```
   npm i --legacy-peer-deps
 ```
